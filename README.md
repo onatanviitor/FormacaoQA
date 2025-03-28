@@ -1,4 +1,4 @@
-##🏆 Formação Quality Assurance (QA) Experience
+##Formação Quality Assurance (QA) Experience
 A formação é voltada para quem qusier integressar e/ou se aperfeiçoar na área de QA.
 
 Duração: 58 hrs
